@@ -1,0 +1,6 @@
+framework module Pods_Rimoteka {
+  umbrella header "Pods-Rimoteka-umbrella.h"
+
+  export *
+  module * { export * }
+}
